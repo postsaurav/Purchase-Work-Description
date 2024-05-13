@@ -1,0 +1,32 @@
+{
+  "id": "d555e785-ac7d-4e97-a530-c8046a8a2aa8",
+  "name": "Work Description - Purchase",
+  "publisher": "Saurav Dhyani",
+  "version": "1.0.0.0",
+  "brief": "This extension enables you to add Work Description on Purchase Documents.",
+  "description": "Allow to add Work Description on Purchase Documents.",
+  "privacyStatement": "https://www.sauravdhyani.com/",
+  "EULA": "https://www.sauravdhyani.com/",
+  "help": "https://www.sauravdhyani.com/",
+  "url": "https://www.sauravdhyani.com/",
+  "logo": "image/sauravdhyani.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
